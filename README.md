@@ -86,8 +86,11 @@ root.render(
     <App />
   </React.StrictMode>
 );
-Modify header-app/public/index.html & home-app/public/index.html:
+```
 
+Modifique os arquivos header-app/public/index.html & home-app/public/index.html:
+
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
