@@ -1,6 +1,7 @@
 # Objetivo
 
 Esse projeto, tem como objetivo criar um projeto de microfrontends usando module federation e conexão com a AWS.
+[header-app-fed](https://github.com/william-camasil/header-app-fed)
 
 [Referência](https://dev.to/samhoooo/micro-frontend-with-module-federation-in-react-3g4m)
 
